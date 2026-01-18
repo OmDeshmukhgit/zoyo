@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 my name is what my name is my name is eminem hello this is the first file i want to share with you people.
-=======
 hello this is the first file i want to share with you people.
->>>>>>> d09860b (new git rebase commit)
+not me eminem hello this is the first file i want to share with you people.
 this is the practice for the amenndmend
 this is the new rebase commit
